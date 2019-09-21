@@ -1,0 +1,10 @@
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\bin\Debug\bütün işlemle.exe.config
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\bin\Debug\bütün işlemle.exe
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\bin\Debug\bütün işlemle.pdb
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün işlemle.csprojAssemblyReference.cache
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün_işlemle.Properties.Resources.resources
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün işlemle.csproj.GenerateResource.cache
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün işlemle.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün işlemle.exe
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün işlemle.pdb
+C:\Users\sabri\Desktop\bütün işlemle\bütün işlemle\obj\Debug\bütün_işlemle.FormButunislemler.resources
